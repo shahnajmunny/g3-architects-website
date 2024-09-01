@@ -175,6 +175,25 @@
     filter: grayscale(100%);
 }
 
+/* footer section styles here  */
+
+.footer{
+    max-width: 1440px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.footer-section{
+    margin-top: 130px;
+    justify-content: center;
+}
+
+.footer-content{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 1.30rem;
+}
+
 /* responsive media query */
 @media screen and (max-width: 576px) {
     .navbar, 
