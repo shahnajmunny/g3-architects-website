@@ -163,9 +163,9 @@
     font-weight: bold;
 }
 
-.female-architect img{
+/* .female-architect img{
     width: 100%;
-}
+} */
 
 /* some fact section */
 .facts-cards{
@@ -266,6 +266,10 @@
         margin-left: 20px;
     }
 
+    .female-architect img{
+        width: 100%;
+    }
+
 }
 
 /* medium size device */
@@ -287,5 +291,9 @@
     #experience-badge{
         margin-top: 20px;
         margin-left: 20px;
+    }
+
+    .female-architect img{
+        width: 100%;
     }
 }
